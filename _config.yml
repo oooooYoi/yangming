@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: 个人博客首页
 email: kongyangming@yeah.com
 description: > # this means to ignore newlines until "baseurl:"
   Copyright © Pwnny's Blog<br/>
